@@ -1,0 +1,26 @@
+body{
+        background:linear-gradient(45deg,dodgerblue,lightsalmon,dodgerblue);
+    Font-Family:"Comic Sans MS ",San-serif;
+    text-align:center;
+}
+h1{
+        Font-Family:Castellar, San-serif;
+        Font-Size:40px;
+}
+h2{
+        background:linear-gradient(45deg,cornflowerblue,red,cornflowerblue);
+        color:snow;
+        padding:15px;
+        border-radius:50%;
+    Width:800px;
+    Margin:auto;
+    box-shadow: 0 0 10px black;
+}
+table{
+    Width: 100%;
+}
+    Img{
+            border-radius: 10px;
+            box-shadow: 0 0 10px black;
+    }
+
